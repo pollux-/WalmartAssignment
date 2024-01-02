@@ -1,4 +1,4 @@
-*** Walmart Assignmnet 
+### Walmart Assignment 
 
 Take home test 
 
