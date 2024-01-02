@@ -7,3 +7,6 @@ Take home test
 - Coroutine 
 - Handled config changes
 - MVVM
+
+
+ <img src="images/sc.png" style="width:320px"> 
